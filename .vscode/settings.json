@@ -1,5 +1,6 @@
 {
   "vscode-edge-devtools.headless": false,
   "python.terminal.useEnvFile": true,
-  "python.envFile": "${workspaceFolder}/backend/.env"
+  "python.envFile": "${workspaceFolder}/backend/.env",
+  "chatgpt.openOnStartup": true
 }
