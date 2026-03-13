@@ -269,8 +269,9 @@ header .logo {
 
 .grid-item-login {
   grid-column: 1 / -1;
-  max-width: 390px;
-  justify-self: center;
+  width: 100%;
+  max-width: none;
+  justify-self: stretch;
 }
 
 .grid-item:hover {
